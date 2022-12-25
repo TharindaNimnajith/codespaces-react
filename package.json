@@ -1,7 +1,8 @@
 {
   "name": "codespaces-react",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
+  "version": "1.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -40,6 +41,6 @@
     "url": "https://github.com/TharindaNimnajith/codespaces-react.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@TharindaNimnajith:registry": "https://npm.pkg.github.com"
   }
 }
